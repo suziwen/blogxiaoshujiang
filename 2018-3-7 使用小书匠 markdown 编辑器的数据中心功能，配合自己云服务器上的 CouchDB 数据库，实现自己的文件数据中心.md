@@ -1,8 +1,14 @@
 ---
 title: 2018-3-7 使用小书匠 markdown 编辑器的数据中心功能，配合自己云服务器上的 CouchDB 数据库，实现自己的文件数据中心
 tags: 教程,数据中心,CouchDB,小书匠
+createDate: 2018-3-7
+updateDate: 2018-3-7
 grammar_cjkRuby: true
+slug: /setup_custom_couchdb_server
 ---
+
+
+[toc!?direction=lr&root=自定义部署CouchDB]
 
 听说最近开 QQ 飞车的人很多，但有了车，又不知道做什么好，好像只能吃灰。。。。或者安慰下自己，当做拿来学习各种服务器配置，但学习总不能一学就好几年吧，大学各种课程加起来也就四年，还不包括寒暑假，学个两三个月也就差不多了，剩下的时间感觉还是得吃灰。
 
