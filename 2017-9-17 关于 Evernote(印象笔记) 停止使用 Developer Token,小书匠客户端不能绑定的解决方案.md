@@ -1,8 +1,13 @@
 ---
 title: 2017-9-17 关于 Evernote(印象笔记) 停止使用 Developer Token,小书匠客户端不能绑定的解决方案
 tags: [Developer Token, 印象笔记,小书匠]
+createDate: 2017-9-17
+updateDate: 2017-9-17
 grammar_cjkRuby: true
+slug: /evernote_deprecated_developer_token_soluction
 ---
+
+[toc!?direction=lr&root=evernote/印象笔记]
 
 ## 问题
 
